@@ -1,5 +1,5 @@
 {
-  "name": "@josetest/button",
+  "name": "@jocelot/button",
   "version": "0.1.3",
   "description": "> TODO: description",
   "author": "jlmortola <jlmortola@me.com>",
@@ -25,5 +25,6 @@
   },
   "bugs": {
     "url": "https://github.com/jlmortola/test/issues"
-  }
+  },
+  "gitHead": "ffdbdcd0cbe9280f4ae812e98b4bee7c984f4075"
 }
