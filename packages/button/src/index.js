@@ -1,5 +1,5 @@
 module.exports = {
   test: function () {
-      console.log('test')
+      console.log('this is a test')
   }
 }
