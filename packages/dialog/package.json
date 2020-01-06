@@ -1,0 +1,29 @@
+{
+  "name": "@jocelot/dialog",
+  "version": "0.1.4",
+  "description": "> TODO: description",
+  "author": "jlmortola <jlmortola@me.com>",
+  "homepage": "https://github.com/jlmortola/test#readme",
+  "license": "MIT",
+  "main": "lib/dialog.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlmortola/test.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/jlmortola/test/issues"
+  }
+}
