@@ -3,8 +3,8 @@
   "version": "0.1.2",
   "description": "> TODO: description",
   "author": "jlmortola <jlmortola@me.com>",
-  "homepage": "",
-  "license": "ISC",
+  "homepage": "https://github.com/jlmortola/test#readme",
+  "license": "MIT",
   "main": "src/index.js",
   "directories": {
     "lib": "lib",
@@ -16,8 +16,14 @@
   "publishConfig": {
     "access": "public"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jlmortola/test.git"
+  },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
   },
-  "gitHead": "b9f8c6c030013689894d0b2e36708f210a98a841"
+  "bugs": {
+    "url": "https://github.com/jlmortola/test/issues"
+  }
 }

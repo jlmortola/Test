@@ -1,5 +1,7 @@
-module.exports = {
-  test: function () {
-      console.log('this is a test')
-  }
+'use strict';
+
+module.exports = button;
+
+function button() {
+    console.log('btn test')
 }
